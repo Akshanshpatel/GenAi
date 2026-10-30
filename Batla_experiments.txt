@@ -1,0 +1,13 @@
+Genai_applications Text generation, summarization, NER, Language Translation using Transformers pipeline
+Variational_autoencoder on mnist data
+Gan on mnist to generate new handwritten digit images
+Gen AI pipeline – data ingestion, chunking, embedding, Vector DB and similarity search
+Chatbot and document summarizer using RAG and Langchain
+chatbot using LangChain and Flask that answers questions from PDF files using local embedding and LLMs
+Prompt Engineering- zero-shot, few-shot, Chain-of-thoughts, ReAct, context, task etc.
+Agents using Langchain for weather, calculator, user-defined applications, Arxiv, Wikipedia
+Guardrails on prompt resonse and tools in Agents
+Build search engine using Agents and tools in Langchain
+Evaluate LLM response using metrics
+Package and deploy a GenAI app (e.g., chatbot or summarizer) using Flask and AWS, Streamlit.
+Apply pre-trained and Fine-tune a pre-trained BERT model for sentiment analysis using open datasets and the Hugging Face Transformers library

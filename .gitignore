@@ -1,0 +1,9 @@
+Langchain/.env
+Langchain/.venv
+
+LangGraph/.env
+LangGraph/.venv
+
+fast_api
+yt_chatbot
+Langchain/Rag/retrievers.ipynb
